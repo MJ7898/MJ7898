@@ -2,7 +2,7 @@
 - 👨🏻‍🎓 I’m studying Professional Software Engineering @
 - 🏫 Knowledge Foundation @Reutlingen University 
 - 👀 I’m interested in Java, Cloud, Go, flutter and App-Development
-- 🌱 I’m currently learning flutter, Go and testing with gauge/taiko
+- 🌱 I’m currently learning flutter, Go and Elixir <!--testing with gauge/taiko-->
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: mikka.jenne@gmail.com 
 
