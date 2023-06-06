@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MJ7898
-- 👨🏻‍🎓 I’m studying Professional Software Engineering @
-- 🏫 Knowledge Foundation @Reutlingen University 
+- 👨🏻‍🎓 I’m M. Sc. of Professional Software Engineering
 - 👀 I’m interested in Java, Cloud, Go, flutter and App-Development
-- 🌱 I’m currently learning flutter, Go and Elixir <!--testing with gauge/taiko-->
-<!--- 💞️ I’m looking to collaborate on ...--->
+- 🌱 I’m currently learning flutter, Elixir and Kubernetes<!--testing with gauge/taiko-->
+- 💞️ I’m looking to collaborate on nice Elixir / Flutter Projects 
 - 📫 How to reach me: mikka.jenne@gmail.com 
 
 <!---
