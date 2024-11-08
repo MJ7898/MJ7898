@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJ7898
 - 👨🏻‍🎓 I’m M. Sc. of Professional Software Engineering
-- 👀 I’m interested in Kubernetes, ELixir/Erlang, Java, Go and flutter
-- 🌱 I’m currently learning flutter<!--testing with gauge/taiko-->
+- 👀 I’m interested in Kubernetes, Elixir/Erlang, Java, Go and flutter
+- 🌱 I’m currently learning Elixir<!--testing with gauge/taiko-->
 - 💞️ I’m looking to collaborate on nice Elixir / Flutter Projects 
 - 📫 How to reach me: mikka.jenne@gmail.com 
 
